@@ -4,6 +4,7 @@ public class Cal {
 
   public void getUserInput(String userInput){
       // user input method
+      System.out.println("User Input");
   }
 
 
